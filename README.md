@@ -1,6 +1,6 @@
 # flutterfcm
 
-A new Flutter project.
+A new Flutter project to push notificatio in a basic flutter mobile application
 
 ## Getting Started
 
